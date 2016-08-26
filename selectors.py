@@ -13,5 +13,4 @@ def sel(L):
 
 if __name__ == '__main__':
     L=[10,10,9,9]
-    print(sel(L)
-)
+    print(sel(L))
